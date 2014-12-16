@@ -1,0 +1,11 @@
+D:\Office\POC\Paraller Programming\ParallerProgramming\RealWorldSingleThreaded\bin\Debug\RealWorldSingleThreaded.exe.config
+D:\Office\POC\Paraller Programming\ParallerProgramming\RealWorldSingleThreaded\bin\Debug\RealWorldSingleThreaded.exe
+D:\Office\POC\Paraller Programming\ParallerProgramming\RealWorldSingleThreaded\bin\Debug\RealWorldSingleThreaded.pdb
+D:\Office\POC\Paraller Programming\ParallerProgramming\RealWorldSingleThreaded\bin\Debug\Common.dll
+D:\Office\POC\Paraller Programming\ParallerProgramming\RealWorldSingleThreaded\bin\Debug\EntityFramework.dll
+D:\Office\POC\Paraller Programming\ParallerProgramming\RealWorldSingleThreaded\bin\Debug\Common.pdb
+D:\Office\POC\Paraller Programming\ParallerProgramming\RealWorldSingleThreaded\obj\Debug\RealWorldSingleThreaded.csprojResolveAssemblyReference.cache
+D:\Office\POC\Paraller Programming\ParallerProgramming\RealWorldSingleThreaded\obj\Debug\RealWorldSingleThreaded.exe
+D:\Office\POC\Paraller Programming\ParallerProgramming\RealWorldSingleThreaded\obj\Debug\RealWorldSingleThreaded.pdb
+D:\Office\POC\Paraller Programming\ParallerProgramming\RealWorldSingleThreaded\bin\Debug\EntityFramework.SqlServer.dll
+D:\Office\POC\Paraller Programming\ParallerProgramming\RealWorldSingleThreaded\bin\Debug\EntityFramework.SqlServerCompact.dll

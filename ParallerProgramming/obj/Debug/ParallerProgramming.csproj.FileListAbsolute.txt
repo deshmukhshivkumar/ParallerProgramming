@@ -1,0 +1,8 @@
+G:\Office\POC\Paraller Programming\ParallerProgramming\ParallerProgramming\bin\Debug\ParallerProgramming.exe.config
+G:\Office\POC\Paraller Programming\ParallerProgramming\ParallerProgramming\bin\Debug\ParallerProgramming.exe
+G:\Office\POC\Paraller Programming\ParallerProgramming\ParallerProgramming\bin\Debug\ParallerProgramming.pdb
+G:\Office\POC\Paraller Programming\ParallerProgramming\ParallerProgramming\obj\Debug\ParallerProgramming.exe
+G:\Office\POC\Paraller Programming\ParallerProgramming\ParallerProgramming\obj\Debug\ParallerProgramming.pdb
+G:\Office\POC\Paraller Programming\ParallerProgramming\ParallerProgramming\obj\Debug\ParallerProgramming.csprojResolveAssemblyReference.cache
+G:\Office\POC\Paraller Programming\ParallerProgramming\ParallerProgramming\bin\Debug\Common.dll
+G:\Office\POC\Paraller Programming\ParallerProgramming\ParallerProgramming\bin\Debug\Common.pdb

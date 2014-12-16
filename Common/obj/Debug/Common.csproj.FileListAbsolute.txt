@@ -1,0 +1,15 @@
+G:\Office\POC\Paraller Programming\ParallerProgramming\Common\bin\Debug\Common.dll
+G:\Office\POC\Paraller Programming\ParallerProgramming\Common\bin\Debug\Common.pdb
+G:\Office\POC\Paraller Programming\ParallerProgramming\Common\obj\Debug\Common.dll
+G:\Office\POC\Paraller Programming\ParallerProgramming\Common\obj\Debug\Common.pdb
+D:\Office\POC\Paraller Programming\ParallerProgramming\Common\bin\Debug\Common.dll.config
+D:\Office\POC\Paraller Programming\ParallerProgramming\Common\bin\Debug\Common.dll
+D:\Office\POC\Paraller Programming\ParallerProgramming\Common\bin\Debug\Common.pdb
+D:\Office\POC\Paraller Programming\ParallerProgramming\Common\bin\Debug\EntityFramework.dll
+D:\Office\POC\Paraller Programming\ParallerProgramming\Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\Office\POC\Paraller Programming\ParallerProgramming\Common\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Office\POC\Paraller Programming\ParallerProgramming\Common\bin\Debug\EntityFramework.xml
+D:\Office\POC\Paraller Programming\ParallerProgramming\Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\Office\POC\Paraller Programming\ParallerProgramming\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Office\POC\Paraller Programming\ParallerProgramming\Common\obj\Debug\Common.dll
+D:\Office\POC\Paraller Programming\ParallerProgramming\Common\obj\Debug\Common.pdb
